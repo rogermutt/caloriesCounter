@@ -1,0 +1,14 @@
+{
+  "douhgnut": {
+    "calories": 300,
+    "description": "A very yummy donut with chocolate and strawberry"
+  },
+    "fries": {
+    "calories": 370,
+    "description": "Crunchy fried chips with a bit of salt"
+  },
+    "icecream": {
+    "calories": 380,
+    "description": "Delicious 3-scoop ice cream of chocolate, strawberry and vanilla"
+  }
+}

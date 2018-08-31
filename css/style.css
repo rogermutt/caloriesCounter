@@ -1,0 +1,20 @@
+
+.prod-img-container {
+  text-align: center;
+}
+
+.prod-img-container img {
+  width: 400px;
+  height: auto;
+  max-width: 90%;
+}
+
+.prodImage {
+  text-align: center;
+  width: 200px;
+}
+
+.prodImage img {
+    width: 100%;
+    height: auto;
+}
